@@ -84,7 +84,7 @@ server <- function(input, output){
         totalCrimes() %>% 
             ggplot(aes(x=reorder(Period,value), y=value, fill=reorder(Period,value)))+
             geom_col()+
-            labs(x=element_blank(), y="Cases in a period", title = "Total number ofCrime Cases")+
+            labs(x=element_blank(), y="Cases in a period", title = "Total number of Crime Cases")+
             guides(fill= FALSE)+
             theme_bw()+
             theme(plot.title = element_text())+
