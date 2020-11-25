@@ -1,2 +1,6 @@
 # R1PROJECT
-Nompumelelo Ndlovu Project 1
+Nompumelelo Ndlovu
+Tembelihle Apleni 
+Gomolemo Thekisho 
+
+R Group Project
