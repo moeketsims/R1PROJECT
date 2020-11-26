@@ -16,7 +16,7 @@ GOMOLEMO THEKISHO 202003845
 
 -Helped each group member with errors on their codes
 
-NOMPUMELELO NDLOVU 202003932
+  TEMBELIHLE APLENI 202000084
 
 -Coded the crime cases graph
 
